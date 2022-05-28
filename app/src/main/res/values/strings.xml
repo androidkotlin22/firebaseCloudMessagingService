@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseCloudMessagingDemo</string>
+    <string name="msg_subscribed">success Created</string>
+    <string name="msg_subscribe_failed">Failure Occur</string>
+</resources>
